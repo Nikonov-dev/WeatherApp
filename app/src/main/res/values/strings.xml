@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="dialog_message_to_get_geo_permission">To use application please give permission to use geolocation</string>
+    <string name="dialog_positive_btn_okay">Okay</string>
+    <string name="postfix_degrees">°</string>
+    <string name="postfix_celsius_symbol">C</string>
+    <string name="prefix_day">Day: </string>
+    <string name="prefix_night">Night: </string>
+    <string name="network_error_message">Network troubles, please retry later</string>
+    <string name="error_message">Some troubles, please try again later</string>
+    <string name="search_view_query_hint">Type city name</string>
+</resources>

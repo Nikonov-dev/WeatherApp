@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WeatherApp.Launcher">
+        <item name="android:windowSplashScreenBackground">@color/purple_500</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/app_logo</item>
+    </style>
+</resources>
